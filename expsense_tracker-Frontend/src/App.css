@@ -6,6 +6,7 @@
   --hue-color: 224;
   --first-color: hsl(var(--hue-color), 89%, 60%);
   --second-color: hsl(var(--hue-color), 56%, 12%);
+  --third-color: hsl(var(--hue-color), 100%, 90%);
   --header-bg-color:linear-gradient(135deg, #334e4dc0, #405f5ec9, #2b3f3ec9);
   --nav-color: linear-gradient(to right, 
                 #FFDDC1 16.66%, #F7E3A9 16.66%, #F7E3A9 33.32%, 

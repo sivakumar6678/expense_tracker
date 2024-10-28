@@ -1,7 +1,11 @@
 import FooterComponent from "./Footer Component";
 import HeaderComponent from "./Header Component";
 import './Home.css'
+
 function HomeComponent() {
+
+
+
     return ( 
         <div>
             <HeaderComponent />
